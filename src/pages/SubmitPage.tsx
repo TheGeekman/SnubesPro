@@ -10,7 +10,7 @@ import { storeProps } from "../utils/types";
 interface HomeProps {}
 
 const SubmitPage = (props: HomeProps) => {
-  const userData = useSelector((state: storeProps) => state.userInfo.data);
+  const userData = useSelector((state: storeProps) => state?.userInfo?.data);
 
   return (
     <main>
