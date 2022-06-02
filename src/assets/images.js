@@ -1,0 +1,16 @@
+export const images = {
+  headerLogo: "snubes/snubes-logo.svg",
+  banner: "snubes/banner.png",
+  sourceSmarterImg: "snubes/sourceSmarterImg.svg",
+  signupImg: "snubes/signupImg.svg",
+  receiveOfferImg: "snubes/receiveOfferImg.svg",
+  talixoLogo: "snubes/talixoLogo.jpg",
+  creditshelf: "snubes/creditshelf.jpg",
+  allianz: "snubes/allianz.jpg",
+  laserhub: "snubes/laserhub.jpg",
+  talixo2: "snubes/talixo2.jpg",
+  usercentrics: "snubes/usercentrics.jpg",
+  bestInternetService: "snubes/bestInternetService.jpg",
+  toggle1: "snubes/toggle1.svg",
+  snubesTextLogo: "snubes/snubesTextLogo.svg",
+};
